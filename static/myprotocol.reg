@@ -1,0 +1,17 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\myprotocol]
+@="myprotocol Protocol"
+"URL Protocol"=""
+ 
+[HKEY_CLASSES_ROOT\myprotocol\DefaultIcon]
+@="E:\QQ\Bin\QQScLauncher.exe,1" 
+
+[HKEY_CLASSES_ROOT\myprotocol\shell]
+@="" 
+
+[HKEY_CLASSES_ROOT\myprotocol\shell\open]
+@=""
+
+[HKEY_CLASSES_ROOT\myprotocol\shell\open\command]
+@="\"E:\QQ\Bin\QQScLauncher.exe\" \"%1\""

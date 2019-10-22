@@ -1,0 +1,346 @@
+{
+    "D": [{
+            "code": "D90",
+            "name": "D90",
+            "type": "D",
+            "carImg": "d90_spic.png",
+            "version": "",
+            "newVersion": "",
+            "ishopeful": false,
+            "downUrl": "",
+            "update": false,
+            "baseurl": "",
+            "otherurl": "",
+            "updateurl": "",
+            "empty": false,
+
+            "ischecking": false,
+            "networkError": false,
+
+            "isClick": false,
+            "canDelete": true,
+            "unzip": false,
+            "downloading": false,
+            "downPercentage": "0/%",
+            "receivedBytes": 0,
+
+            
+            "isCheck": false,
+            "downSpeed": "0k/s",
+            "deleteing": false
+        },
+        {
+            "code": "D60",
+            "name": "D60",
+            "type": "D",
+            "carImg": "d60_spic.png",
+            "version": "",
+            "newVersion": "",
+            "versionurl": "/cr51app/index.php/App/Version/os",
+            
+            "ishopeful": false,
+            "downUrl": "",
+            "update": false,
+            "baseurl": "",
+            "otherurl": "",
+            "updateurl": "",
+            "empty": true,
+
+            "ischecking": false,
+            "networkError": false,
+
+            "isClick": false,
+            "canDelete": true,
+            "unzip": false,
+            "downloading": false,
+            "downPercentage": "0/%",
+            "receivedBytes": 0,
+
+
+            "isCheck": false,
+            "downSpeed": "0k/s",
+            "deleteing": false
+        }
+    ],
+    "V": [
+          {
+            "code": "V80",
+            "name": "V80",
+            "type": "V",
+            "carImg": "v80_spic.png",
+            "version": "",
+            "newVersion": "",
+            "ishopeful": true,
+            "downUrl": "",
+            "update": false,
+            "baseurl": "",
+            "otherurl": "",
+            "updateurl": "",
+            "empty": true,
+
+            "ischecking": false,
+            "networkError": false,
+
+            "isClick": false,
+            "canDelete": true,
+            "unzip": false,
+            "downloading": false,
+            "downPercentage": "0/%",
+            "receivedBytes": 0,
+
+
+            
+
+            "isCheck": false,
+            "downSpeed": "0k/s",
+            "deleteing": false
+        },
+
+        {
+            "code": "V90",
+            "name": "V90",
+            "type": "V",
+            "carImg": "v90_spic.png",
+            "version": "",
+            "newVersion": "",
+            "ishopeful": true,
+            "downUrl": "",
+            "update": false,
+            "baseurl": "",
+            "otherurl": "",
+            "updateurl": "",
+            "empty": true,
+
+            "ischecking": false,
+            "networkError": false,
+
+            "isClick": false,
+            "canDelete": true,
+            "unzip": false,
+            "downloading": false,
+            "downPercentage": "0/%",
+            "receivedBytes": 0,
+
+            
+
+            "isCheck": false,
+            "downSpeed": "0k/s",
+            "deleteing": false
+        } ,
+
+        {
+            "code": "RV80",
+            "name": "RV80",
+            "type": "V",
+            "carImg": "RV80_spic.png",
+            "version": "",
+            "newVersion": "",
+            "ishopeful": true,
+            "downUrl": "",
+            "update": false,
+            "baseurl": "",
+            "otherurl": "",
+            "updateurl": "",
+            "empty": true,
+
+            "ischecking": false,
+            "networkError": false,
+
+            "isClick": false,
+            "canDelete": true,
+            "unzip": false,
+            "downloading": false,
+            "downPercentage": "0/%",
+            "receivedBytes": 0,
+
+            
+
+            "isCheck": false,
+            "downSpeed": "0k/s",
+            "deleteing": false
+        }  
+    ],
+    "G": [
+            {
+            "code": "G10",
+            "name": "G10",
+            "type": "G",
+            "carImg": "G10_spic.png",
+            "version": "",
+            "newVersion": "",
+            "ishopeful": true,
+            "downUrl": "",
+            "update": false,
+            "baseurl": "",
+            "otherurl": "",
+            "updateurl": "",
+            "empty": true,
+
+            "ischecking": false,
+            "networkError": false,
+
+            "isClick": false,
+            "canDelete": true,
+            "unzip": false,
+            "downloading": false,
+            "downPercentage": "0/%",
+            "receivedBytes": 0,
+
+
+            "isCheck": false,
+            "downSpeed": "0k/s",
+            "deleteing": false
+        },
+        {
+            "code": "G50",
+            "name": "G50",
+            "type": "G",
+            "carImg": "G50_spic.png",
+            "version": "",
+            "newVersion": "",
+            "ishopeful": false,
+            "downUrl": "",
+            "update": false,
+            "baseurl": "",
+            "otherurl": "",
+            "updateurl": "",
+            "empty": false,
+
+            "ischecking": false,
+            "networkError": false,
+
+            "isClick": false,
+            "canDelete": true,
+            "unzip": false,
+            "downloading": false,
+            "downPercentage": "0/%",
+            "receivedBytes": 0,
+
+
+            "isCheck": false,
+            "downSpeed": "0k/s",
+            "deleteing": false
+        } ,
+        {
+            "code": "G20",
+            "name": "G20",
+            "type": "G",
+            "carImg": "G20_spic.png",
+            "version": "",
+            "newVersion": "",
+            "ishopeful": false,
+            "downUrl": "",
+            "update": false,
+            "baseurl": "",
+            "otherurl": "",
+            "updateurl": "",
+            "empty": false,
+
+            "ischecking": false,
+            "networkError": false,
+
+            "isClick": false,
+            "canDelete": true,
+            "unzip": false,
+            "downloading": false,
+            "downPercentage": "0/%",
+            "receivedBytes": 0,
+
+
+            "isCheck": false,
+            "downSpeed": "0k/s",
+            "deleteing": false
+        },
+        {
+            "code": "RG10",
+            "name": "RG10",
+            "type": "G",
+            "carImg": "RG10_spic.png",
+            "version": "",
+            "newVersion": "",
+            "ishopeful": true,
+            "downUrl": "",
+            "update": false,
+            "baseurl": "",
+            "otherurl": "",
+            "updateurl": "",
+            "empty": true,
+
+            "ischecking": false,
+            "networkError": false,
+
+            "isClick": false,
+            "canDelete": true,
+            "unzip": false,
+            "downloading": false,
+            "downPercentage": "0/%",
+            "receivedBytes": 0,
+
+
+            "isCheck": false,
+            "downSpeed": "0k/s",
+            "deleteing": false
+        } 
+    ],
+    "T": [
+            {
+            "code": "T60",
+            "name": "T60",
+            "type": "T",
+            "carImg": "T60_pic.png",
+            "version": "",
+            "newVersion": "",
+            "ishopeful": true,
+            "downUrl": "",
+            "update": false,
+            "baseurl": "",
+            "otherurl": "",
+            "empty": true,
+
+            "ischecking": false,
+            "networkError": false,
+
+            "isClick": false,
+            "canDelete": true,
+            "unzip": false,
+            "downloading": false,
+            "downPercentage": "0/%",
+            "receivedBytes": 0,
+
+
+            "isCheck": false,
+            "downSpeed": "0k/s",
+            "deleteing": false
+        },
+        {
+            "code": "T70",
+            "name": "T70",
+            "type": "T",
+            "carImg": "T70_spic.png",
+            "version": "",
+            "newVersion": "",
+            "ishopeful": true,
+            "downUrl": "",
+            "update": false,
+            "baseurl": "",
+            "otherurl": "",
+            "empty": true,
+
+            "ischecking": false,
+            "networkError": false,
+
+            "isClick": false,
+            "canDelete": true,
+            "unzip": false,
+            "downloading": false,
+            "downPercentage": "0/%",
+            "receivedBytes": 0,
+
+
+
+            "isCheck": false,
+            "downSpeed": "0k/s",
+            "deleteing": false
+        }
+    ]
+}
